@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 
 
-- 🔭 I’m currently working on **Hotel Booking Web Application Project**
-
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Java**
